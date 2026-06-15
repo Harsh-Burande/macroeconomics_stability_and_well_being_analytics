@@ -129,7 +129,7 @@ Key Functionalities:
 
 Programming: Python
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
-- Visualization: Power BI / matplotlib / seaborn
+- Visualization: matplotlib / seaborn
 - App Framework: Streamlit
 - Modeling: Random Forest
 - Generative AI: Ollama, Phi LLM, Retrieval-Augmented Generation (RAG)
