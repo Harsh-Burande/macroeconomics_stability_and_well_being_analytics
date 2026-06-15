@@ -39,9 +39,9 @@ Key Features:
 - Country-level comparisons and trend identification
 - Feature Engineering
 - Created Happiness Risk Categories:
-- High Risk
-- Medium Risk
-- Low Risk
+-- Low Risk
+-- Medium Risk
+-- High Risk
 - Handled missing values and normalized key variables
 - Selected relevant predictors based on correlation and domain logic
 - Modeling
